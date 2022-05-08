@@ -1,0 +1,6 @@
+Flask==2.1.1
+Flask-Bootstrap==3.3.7.1
+Flask-SQLAlchemy==2.5.1
+Flask-Cors==3.0.10
+SQLAlchemy==1.4.36
+Werkzeug==2.1.2
